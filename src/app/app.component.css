@@ -1,0 +1,30 @@
+#header{
+  background-color: #0f3f5d ;
+  background-blend-mode:screen;
+  height: 50px;
+}
+#backcover{
+  background-image:url('src\assets\img\Background.jpg');
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1920px 1200px;
+  position: fixed;
+}
+#sidebar{
+  background-color: #012e4c;
+  width: 200px;
+  height: 900px;
+  position: absolute;
+  border: 1px solid gray;
+}
+.Logo{
+  border: 1px solid gray;
+}
+.LogoName{
+  color: whitesmoke;
+margin : -30px 0px 0px 65px;
+font-weight:900;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+ }
