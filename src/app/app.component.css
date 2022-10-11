@@ -2,29 +2,29 @@
   background-color: #0f3f5d ;
   background-blend-mode:screen;
   height: 50px;
+  border: 1px solid gray;
 }
 #backcover{
   background-image:url('src\assets\img\Background.jpg');
-  height: 900px;
+  height: 1300px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 1920px 1200px;
-  position: fixed;
+  background-size: 1920px 1300px;
 }
 #sidebar{
-  background-color: #012e4c;
-  width: 200px;
-  height: 900px;
+  background-color: #04446c;
+  height: 1250px;
   position: absolute;
   border: 1px solid gray;
 }
 .Logo{
-  border: 1px solid gray;
-}
-.LogoName{
+  margin-left: -9px;
+  margin-top: -3px;
+  font-size: larger;
   color: whitesmoke;
-margin : -30px 0px 0px 65px;
-font-weight:900;
-font-family: 'Times New Roman', Times, serif;
-font-size: larger;
- }
+}
+.menu{
+margin: 3.5px 0px 0px 900px;
+color: white;
+}
+
