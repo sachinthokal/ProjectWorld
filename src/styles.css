@@ -1,4 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
-body{
-  background-color: #012e4c;
+#header{
+  background-color: #0f3f5d ;
+  background-blend-mode:screen;
+  height: 50px;
+  border: 1px solid gray;
 }
+#backcover{
+  background-image:url('src\assets\img\Background.jpg');
+  height: 1300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1920px 1300px;
+}
+#sidebar{
+  background-color: #04446c;
+  height: 1250px;
+  position: absolute;
+  border: 1px solid gray;
+}
+.Logo{
+  margin-left: -9px;
+  margin-top: -3px;
+  font-size: larger;
+  color: whitesmoke;
+}
+.menu{
+margin: 3.5px 0px 0px 900px;
+color: white;
+}
+
