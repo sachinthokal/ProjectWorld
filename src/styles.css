@@ -4,6 +4,7 @@
   background-color: #306C90;
   background-repeat: no-repeat;
   height: 1200px;
+  color: whitesmoke;
 }
 .row{
   background-color: #0f3f5d ;
@@ -38,13 +39,16 @@ footer{
   padding: 5px;
 }
 .linksdemo{
-  margin-top: 20px;
+  margin-top: 40px;
   position: absolute;
   color: whitesmoke;
+}
+.linkspace{
+  margin-bottom: 20px;
 }
 .footercontain{
   color: whitesmoke;
   margin-left: 1100px;
-  margin-top: 140px;
+  margin-top: 200px;
   position: absolute;
 }
